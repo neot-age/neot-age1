@@ -1,0 +1,6 @@
+-Carrera: Diseño Multimedial
+-Materia: Lógica de Programación
+-Comisión: DMTT 1B-2019
+-Alumna: Luana Cristaudo
+-Profesor: Omar Toyos
+-FINAL
